@@ -1,0 +1,4 @@
+pymem==1.14.0
+requests==2.32.2
+colorama==0.4.6
+zTyp==1.0.1
